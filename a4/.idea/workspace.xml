@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="f8355a1c-9358-4f4c-a865-a928d94f677b" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/../a2/__MACOSX/sounds/._explosion.wav" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../a2/__MACOSX/sounds/._fastinvader1.wav" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../a2/__MACOSX/sounds/._fastinvader2.wav" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../a2/__MACOSX/sounds/._fastinvader3.wav" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../a2/__MACOSX/sounds/._fastinvader4.wav" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../a2/__MACOSX/sounds/._invaderkilled.wav" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../a2/__MACOSX/sounds/._shoot.wav" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../a3/.gradle/6.8/executionHistory/executionHistory.lock" beforeDir="false" afterPath="$PROJECT_DIR$/../a3/.gradle/6.8/executionHistory/executionHistory.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../a3/.gradle/6.8/fileHashes/fileHashes.bin" beforeDir="false" afterPath="$PROJECT_DIR$/../a3/.gradle/6.8/fileHashes/fileHashes.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../a3/.gradle/6.8/fileHashes/fileHashes.lock" beforeDir="false" afterPath="$PROJECT_DIR$/../a3/.gradle/6.8/fileHashes/fileHashes.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../a3/.gradle/buildOutputCleanup/buildOutputCleanup.lock" beforeDir="false" afterPath="$PROJECT_DIR$/../a3/.gradle/buildOutputCleanup/buildOutputCleanup.lock" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CodeStyleSettingsInfer">
+    <option name="done" value="true" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="ProjectCodeStyleSettingsMigration">
+    <option name="version" value="1" />
+  </component>
+  <component name="ProjectId" id="1wCUfJEBn1geuV01L39scSkczdm" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="f8355a1c-9358-4f4c-a865-a928d94f677b" name="Default Changelist" comment="" />
+      <created>1627962167279</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1627962167279</updated>
+    </task>
+    <servers />
+  </component>
+</project>
